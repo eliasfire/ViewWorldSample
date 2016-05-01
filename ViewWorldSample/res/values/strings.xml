@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewWorldSample</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="xPosLabel">X:</string>
+    <string name="yPosLabel">Y:</string>
+    <string name="zPosLabel">Z:</string>
+    <string name="MarkerNameLabel">Nombre:</string>
+    <string name="MoreThanOneMarkerMessage">Mas de un marcador encontrado!!</string>
+    <string name="emptyString"></string>
+
+                   
+        
+</resources>
